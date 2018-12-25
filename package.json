@@ -1,6 +1,6 @@
 {
 	"name": "notificar",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "A cooler event library with composite subsciptions",
 	"main": "index.js",
 	"typings": "index.d.ts",
