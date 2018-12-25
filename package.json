@@ -1,0 +1,23 @@
+{
+	"name": "notificar",
+	"version": "0.0.0",
+	"description": "A cooler event library with composite subsciptions",
+	"main": "index.js",
+	"typings": "index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/neeksandhu/notificar.git"
+	},
+	"keywords": [
+		"event",
+		"events",
+		"disposable",
+		"emitter"
+	],
+	"author": "Neek Sandhu <neek.sandhu@outlook.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/neeksandhu/notificar/issues"
+	},
+	"homepage": "https://github.com/neeksandhu/notificar#readme"
+}
